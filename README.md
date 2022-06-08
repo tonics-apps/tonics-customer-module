@@ -1,2 +1,2 @@
-# tonics-customer-module
+# Tonics Customer Module
 Contains Tonic Customer Module Releases
